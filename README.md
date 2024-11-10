@@ -1,7 +1,7 @@
 # Setup Guide
 
 ## Step 1: Download
-Download the APK fil.
+Download the APK file.
 
 ## Step 2: Install
 Install the APK. You may be prompted to allow installation from unknown sources. The app can be scanned by Play Protect for safety.
